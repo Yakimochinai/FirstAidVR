@@ -28,12 +28,19 @@ You can download the full Unity project (including scenes, models, and scripts) 
 ## 📁 Project Structure
 
 FirstAidVR/
-├── Assets/ # Scripts, scenes, prefabs, and guides
+├── .vs/ # Visual Studio configuration
+├── Assets/ # Unity assets: scripts, scenes, prefabs
+├── CPR_EXE/ # Built executables or platform-specific outputs
 ├── Packages/ # Unity package manifest
-├── ProjectSettings/ # Unity settings and platform configs
-├── BuildInstructions.md # Build guide for APK
+├── ProjectSettings/ # Unity project settings
+├── UserSettings/ # Unity editor user-specific settings
+├── VR_CPR_Simulator_BurstDebugIn.../ # Burst compiler debug artifacts (Unity)
+├── git-filter-repo-2.47.0/ # Git history cleanup tool (local)
+├── .gitignore
+├── .vsconfig
+├── LICENSE
 ├── README.md
-└── .gitignore
+└── pip3 # Possibly a Python helper or placeholder
 
 
 ## 📄 License
