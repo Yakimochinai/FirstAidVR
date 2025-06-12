@@ -26,7 +26,7 @@ You can download the full Unity project (including scenes, models, and scripts) 
 4. To build an APK for Oculus Quest 2, see `BuildInstructions.md`.
 
 ## 📁 Project Structure
-
+```
 FirstAidVR/
 ├── .vs/ # Visual Studio configuration
 ├── Assets/ # Unity assets: scripts, scenes, prefabs
@@ -41,7 +41,7 @@ FirstAidVR/
 ├── LICENSE
 ├── README.md
 └── pip3 # Possibly a Python helper or placeholder
-
+```
 
 ## 📄 License
 
