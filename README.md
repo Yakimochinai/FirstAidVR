@@ -55,4 +55,3 @@ This project is part of a master's thesis work focused on immersive training sys
 
 ---
 
-如您希望添加中文版本或双语，我也可以继续帮您扩展。是否我帮您将这份优化版 `README.md` 保存为文件，供您上传？只需说一声即可。
