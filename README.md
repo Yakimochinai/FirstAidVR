@@ -7,7 +7,7 @@ This is a complete project of a **Unity-based Virtual Reality First Aid Training
 - Hands-on CPR practice in a virtual reality environment
 - Real-time performance feedback and scoring system
 - Compatible with Oculus Quest 2
-- Multiple training scenarios: **Office** and **Home**
+- Training scenarios: **Classroom**
 - Integrated video tutorials and interactive guidance system
 
 ## 📦 Download
