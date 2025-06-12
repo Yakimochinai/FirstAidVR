@@ -1,0 +1,62 @@
+
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+Obj/
+MemoryCaptures/
+Logs/
+
+# User-specific
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.DS_Store
+
+# OS
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# Packages
+*.unitypackage
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# Media & Assets
+*.mp4
+*.avi
+*.mov
+*.fbx
+*.blend
+*.png
+*.jpg
+*.jpeg
+*.wav
+*.mp3
+*.ogg
+*.psd
+*.tga
+*.webm
+
+# Others
+.vscode/
+.idea/
+*.apk
+*.exe
+*.log
+*.bak
